@@ -11,7 +11,7 @@ Being able to identify the value of particular diamonds is a craft many dedicate
 
 How do different features of a diamond affe 
 
-<img src="DiamondClarity.png"
+<img src="/Users/reuben/School_Stuff/section01/nyc-mhtn-ds-082619-lectures/Mod_6/Project_5/Diamond-Appraiser/DiamondClarity.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
