@@ -12,7 +12,7 @@ Being able to identify the value of particular diamonds is a craft many dedicate
 How do different features of a diamond affe
 
 <img src="img/DiamondClarity.png"
-     width="50" height="100"
+     width="250" height="250"
      alt="Diamond Clarity"
      style="float: left; margin-right: 10px;" />
 
