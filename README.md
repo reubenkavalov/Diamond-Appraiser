@@ -12,9 +12,14 @@ Being able to identify the value of particular diamonds is a craft many dedicate
 How do different features of a diamond affe
 
 <img src="img/DiamondClarity.png"
-     width="350" height="250"
+     width="300" height="250"
      alt="Diamond Clarity"
      style="float: left; margin-right: 10px;" />
+     
+<img src="img/DiamondColor.png"
+     width="300" height="250"
+     alt="Diamond Color"
+     style="float: right; margin-right: 10px;" />
 
 Based on the visualizations and the models we used to compared grade and years built it is clear that the data does not hold a strong relationship between these two factors. When representing properties to clientele who are looking for quality homes it is best to avoid showing them older ones overall as a majority of them tend towards having a lower rating. In fact a majority of homes that have higher grades are ones that subvert the idea that older homes tend to be of higher quality since the median and mode of the data indicate this. I would also want to point out that while there may be some kickback from clients who believe this to not be true, information from out kurtosis show us that there are very few extreme outliers. Which means that while situations where this is not the case are true, they are simply exceptional.
 
