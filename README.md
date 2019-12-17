@@ -20,7 +20,7 @@ Here are visualizations of the distribution of diamond prices for the categorica
 
 Below are scatterplots depicting the relationships between the continous variables.
 
-![Scatterplots](img/scatter)
+![Scatterplots](img/scatter.png)
 
 Finally, here is a snippet of the DataFrame:
 
