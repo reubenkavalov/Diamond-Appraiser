@@ -34,7 +34,7 @@ After trying Linear Regression, Random Forest models, and various boosted method
 
 Finally, we ended up using an ensemble of the six best deep neural network models that we achieved, stacked, used as an input layer to another neural net.
 
-<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/stackednn.png" width="500" height="900">
+<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/stackednn.png" width="400" height="700">
 
 
 # Conclusion
