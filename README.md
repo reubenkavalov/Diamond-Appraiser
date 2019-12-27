@@ -14,6 +14,9 @@ How do different features of the diamonds in our data influence the price?
 
 Here are visualizations of the distribution of diamond prices for the categorical features:
 
+<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/cuts.png" width="20" height="100">
+
+
 ![Diamond Cuts](img/cuts.png)
 ![Diamond Color](img/color.png)
 ![Diamond Clarity](img/clarity.png)
