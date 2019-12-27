@@ -20,7 +20,7 @@ Here are visualizations of the distribution of diamond prices for the categorica
 
 Below are scatterplots depicting the relationships between the continous variables.
 
-<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/scatter.png" width="450" height="450">
+<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/scatter.png" width="650" height="550">
 
 Finally, here is a snippet of the DataFrame:
 
@@ -34,7 +34,7 @@ After trying Linear Regression, Random Forest models, and various boosted method
 
 Finally, we ended up using an ensemble of the six best deep neural network models that we achieved, stacked, used as an input layer to another neural net.
 
-![Stacked Deep Neural Network](img/stackednn.png)
+<img src="https://github.com/reubenkavalov/Diamond-Appraiser/blob/master/img/stackednn.png" width="500" height="900">
 
 
 # Conclusion
